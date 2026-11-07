@@ -1,0 +1,24 @@
+# Diretórios de build do Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# IDEs e Editores
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+.classpath
+.project
+.settings/
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
